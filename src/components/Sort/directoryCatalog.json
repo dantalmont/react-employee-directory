@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Mike",
+        "title": "Plumber",
+        "phone": "777-345-2345",
+        "email": "Mike@gmail.com",
+        "eDuration": "4 years"
+    },
+    {
+        "name": "Jimmy",
+        "title": "Engineer",
+        "phone": "145-264-3265",
+        "email": "Jimmy@gmail.com",
+        "eDuration": "1 years"
+    },
+    {
+        "name": "Randy",
+        "title": "Handyman",
+        "phone": "123-454-2389",
+        "email": "Randy@gmail.com",
+        "eDuration": "2 years"
+    },
+    {
+        "name": "Danny",
+        "title": "Manager",
+        "phone": "312-234-5545",
+        "email": "Dan@gmail.com",
+        "eDuration": "9 years"
+    },
+    {
+        "name": "Zach",
+        "title": "Electrician",
+        "phone": "413-322-2555",
+        "email": "dantalmont@gmail.com",
+        "eDuration": "8 years"
+    },
+    {
+        "name": "Alvin",
+        "title": "Lead Guru",
+        "phone": "413-676-5543",
+        "email": "dantalmont@gmail.com",
+        "eDuration": "2 years"
+    },
+    {
+        "name": "Kemper",
+        "title": "Broker",
+        "phone": "902-452-2266",
+        "email": "dantalmont@gmail.com",
+        "eDuration": "2 years"
+    },
+    {
+        "name": "Jason",
+        "title": "Analyst",
+        "phone": "560-374-8881",
+        "email": "Jason@gmail.com",
+        "eDuration": "3 years"
+    }
+]
