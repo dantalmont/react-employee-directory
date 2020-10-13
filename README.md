@@ -4,7 +4,7 @@ In this application you view a given employee roster that contains info of each 
 
 <br>
 
-[DEMO](link)<br>
+[DEMO](https://danny-react-employee-directory.herokuapp.com/)<br>
 
 <br>
 
